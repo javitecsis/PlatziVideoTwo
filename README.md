@@ -1,7 +1,6 @@
 <div align = "center">
   <br>
-  <img alt = "Platzi Video" src = "https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width = "300px">
-  <h1>  Platzi Video </h1>
+   <h1>  Platzi Video </h1>
   <strong> Desarrollo aplicación utilizando CSS moderno - platzi Master  </strong>
 </div>
 <br>
