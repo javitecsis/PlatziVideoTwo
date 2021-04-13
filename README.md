@@ -40,4 +40,4 @@ Este proyecto usa GitHub como base de datos. Esa plantilla de repositorio se enc
 
 ## LICENCIA
 
-Licencia publica
+[MIT](https://choosealicense.com/licenses/mit/)
